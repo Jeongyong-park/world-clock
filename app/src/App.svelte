@@ -1,8 +1,7 @@
 <script lang="ts">
   import svelteLogo from "./assets/svelte.svg";
-  import viteLogo from "/vite.svg";
-  import Counter from "./lib/Counter.svelte";
   import Clock from "./lib/Clock.svelte";
+  import viteLogo from "/vite.svg";
 </script>
 
 <main>
